@@ -45,9 +45,9 @@ Increased reliability with the reuse of the existing components.
 ##### Props can only be passed to components in one way (parent to child) #####
 
 ## SUMMARY ##
-### The component is a capsulated function that can help me to customize my code and  use it any time I want and can I repeat using it in any diffrent project. ###
+### The component is a capsulated function that can help me to customize my code and  use it any time I want and can I repeat using it in any different project. ###
 
-### The props I think iy's an object that organize the data transision between component ### 
+### The props I think it's an object that organize the data transission between component ### 
 
 ## Things I want to know more about ##
 1- what is the main diff between object and component.
