@@ -1,4 +1,4 @@
-#Components
+# Components
 ## Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 ### the first thing happen is render. 
 
@@ -19,7 +19,7 @@
 
 ##   componentdidamount using when you need to load anything using a network request or initialize the DOM
 
-#Props
+# Props
 
 ## What types of things can you pass in the props?
 
