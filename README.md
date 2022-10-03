@@ -6,7 +6,7 @@
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
-* [class01](/code-401-python/class-01/README.md)
+* [class01](https://bayanbushnaq.github.io/reading-notes/code-401-python/class-01/README)
 * [class02](https://bayanbushnaq.github.io/reading-notes/code-401-python/class-01/README.md)
 
 
