@@ -3,6 +3,7 @@
 ### **Big O specifically describe the worst case scenario, and can be used to describe the execution time required or the space used by an Algorithm.**
 
 
+
 # Names and values in Python : 
 ### This talk about some fundamental concepts in Python: names and values.
 ### The mechanisms of Python are often quite simple, but their combined effects might not be what you expect. By understanding the mechanisms, you can reason about their effects.
@@ -10,6 +11,7 @@
 ### Python is a dynamically typed language, meaning Python recognizes the type of variable automatically. Therefore, the programmer does not need to define the data type when defining the variable
 
 ### Python variables are not what they seem. They do not hold values; instead, they hold references to objects. In Python, everything is an object, which means even the most basic data types like integers and strings are objects. It is different from other programming languages, where integers are standalone data types and not complex objects with associated properties and methods.
+
 
 # How to Setup an Awesome Python Environment for Data Science or Anything Else
 
@@ -34,6 +36,8 @@
 
 ## What is Python 3 Module of the Week?
 ### is a series of articles written by Doug Hellmann to demonstrate how to use the modules of the Python 3 standard library.
+
+
 
 ### It's include :
 - Text 
