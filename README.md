@@ -9,8 +9,13 @@
 
 
 
+
+
+
 * [class01](https://bayanbushnaq.github.io/reading-notes/code-401-python/class-01/README.md)
 * [class02](/code-401-python/class-02/README.md)
+
+
 
 
 ***I'm very intrested in Artificial inteligenc,machine learning and deep learning so I decided to diving in it by getting python course***
