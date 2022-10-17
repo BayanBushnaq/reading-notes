@@ -31,7 +31,7 @@
 - Trie. 
 - Hash table.
 
-![types of data structures](/code-401-python/class-09/ClassificationofDataStructure-660x347.jpg)
+![types of data structures](/code-401-python/class-09/ClassificationofDataStructure-660x347.jpg))
 
 ### How to choose a data structure
 ## When choosing a data structure for a program or application, developers should consider the answers to the following three questions:
