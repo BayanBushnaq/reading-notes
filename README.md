@@ -21,6 +21,8 @@
 * [class10](/code-401-python/class-10/README.md)
 * [class11](/code-401-python/class-11/README.md)
 * [class12](/code-401-python/class-12/README.md)
+* [class13](/code-401-python/class-13/README.md)
+
 
 
 ***I'm very intrested in Artificial inteligenc,machine learning and deep learning so I decided to diving in it by getting python course***
