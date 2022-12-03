@@ -31,7 +31,7 @@
 * [class17](/code-401-python/class-17/README.md)
 * [class19](/code-401-python/class-19/README.md)
 * [class20](/code-401-python/class-20/README.md)
-* [class22](/code-401-python/class-20/README.md)
+* [class22](/code-401-python/class-22/README.md)
 
 
 
