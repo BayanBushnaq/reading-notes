@@ -35,6 +35,7 @@
 * [class23](/code-401-python/class-23/README.md)
 * [class24](/code-401-python/class-24/README.md)
 * [class25](/code-401-python/class-25/README.md)
+* [class26](/code-401-python/class-26/README.md)
 
 
 
