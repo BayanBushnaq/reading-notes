@@ -38,6 +38,7 @@
 * [class26](/code-401-python/class-26/README.md)
 * [class27](/code-401-python/class-27/README.md)
 * [class28](/code-401-python/class-28/README.md)
+* [class29](/code-401-python/class-29/README.md)
 
 
 
