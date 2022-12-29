@@ -40,7 +40,7 @@
 * [class28](/code-401-python/class-28/README.md)
 * [class29](/code-401-python/class-29/README.md)
 * [class30](/code-401-python/class-30/README.md)
-
+* [class31](/code-401-python/class-31/README.md)
 
 
 ***I'm very intrested in Artificial inteligenc,machine learning and deep learning so I decided to diving in it by getting python course***
