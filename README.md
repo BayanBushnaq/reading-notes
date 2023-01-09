@@ -44,6 +44,7 @@
 * [class32](/code-401-python/class-32/README.md)
 * [class33](/code-401-python/class-33/README.md)
 * [class34](/code-401-python/class-34/README.md)
+* [class35](/code-401-python/class-35/README.md)
 
 
 ***I'm very intrested in Artificial inteligenc,machine learning and deep learning so I decided to diving in it by getting python course***
